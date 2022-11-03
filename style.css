@@ -8,13 +8,13 @@ h1{
     padding: 2%;
     float: left;
     color:black
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-family : 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
    
 }
 img{
-    padding-bottom: 120px;
-    border-radius: 2%;
-    padding-left: 20px;
+   padding-bottom: 30px;
+    border-radius: 10px 5px 10px 5px;
+    padding-left: 50px;
 }
 .part1{
     font-size: larger;
@@ -26,6 +26,43 @@ img{
     background-image: url("images/back1.jpg");
 }
 section{
-    height: 700px;
+    height: 650px;
     
+}
+body{
+    margin: 0%;
+}
+.hrefedit{
+    text-decoration: none;
+    font-size: larger;
+    color: black;
+    border-radius: 22px;
+    background-image: linear-gradient(white, black);
+    padding: 15px 20px;
+    font-weight: 300px;
+    
+}
+.part-2{
+    background-image: url("images/back2.jpg");
+}
+.second-div{
+    width: 50%;
+    float: left;
+    border-radius: 7%;
+}
+p{
+    font-size: x-large;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-align: center;
+    padding-right: 20px;
+}
+.hrefedit2{
+    text-decoration: none;
+    font-size: larger;
+    color: black;
+    border-radius: 22px;
+    background-image: linear-gradient(white, black);
+    padding: 15px 20px;
+    font-weight: 300px;
+
 }
