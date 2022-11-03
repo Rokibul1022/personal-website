@@ -8,7 +8,7 @@ h1{
     padding: 2%;
     float: left;
     color:black
-    font-family : 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-family: 'Courier New', Courier, monospace;
    
 }
 img{
@@ -55,7 +55,7 @@ p{
     font-size: x-large;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     text-align: center;
-    padding-right: 20px;
+   
 }
 .hrefedit2{
     text-decoration: none;
@@ -77,3 +77,48 @@ h4{
     background-image: url("images/back3.jpg");
     padding-top: 20px;
 }
+.ptag{
+    text-align: center;
+    font-size: 40px;
+    color: rgb(42, 1, 1);
+}
+.leason{
+    text-align: center;
+    font-size: 30px;
+}
+.edit-email{
+    text-decoration: none;
+    background-image: linear-gradient(white, aqua);
+    color: rgb(69, 64, 64);
+    font-size: 60px;
+    border-radius: 5%;
+    font-weight: 200;
+}
+.edit-facebook{
+    text-decoration: none;
+    background-image: linear-gradient( aqua, white);
+    color: rgb(69, 64, 64);
+    font-size: 60px;
+    border-radius: 5%;
+    font-weight: 200;
+
+}
+.edit-insta{
+    text-decoration: none;
+    background-image: linear-gradient(white, aqua);
+    color: rgb(69, 64, 64);
+    font-size: 60px;
+    border-radius: 5%;
+    font-weight: 200;
+}
+.final-part{
+    background-image: url("images/solid-light-yellow-background.jpg");
+    padding-top: 20px;
+}
+.learn{
+    font-size: 40px;
+}
+.foot{
+    text-align: center;
+}
+
